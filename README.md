@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharma18&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharma18" /> </p>
 
-- 🔭 I’m currently working on **my college project**
+- 🔭 I’m currently working on **🚀 Currently diving deep into the MERN Stack to craft full-stack web magic ✨**
 
 - 🌱 I’m currently learning **Frameworks like Tailwind, react and many more**
 
