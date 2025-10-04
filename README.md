@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharma18&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharma18" /> </p>
 
-- **🚀 Currently diving deep into the MERN Stack to craft full-stack web magic ✨**
+- **🚀 Currently diving deep into the MERN Stack to craft full-stack web magic and python DSA✨**
 
-- 🌱 I’m currently learning **Frameworks like Tailwind, react and many more**
+- 🌱 I’m currently learning ** Python language and Frameworks like Tailwind, react and many more**
 
 - 💬 Ask me about **react and other web technologies**
 
