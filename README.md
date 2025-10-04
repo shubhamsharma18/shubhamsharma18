@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">"Full Stack Developer| Building modern web applications with MongoDB, Express, React, and Node.js."| Code. Build. Deploy 🚀</h3>
+<h3 align="center">"Full Stack Developer| Building modern web applications with MongoDB, Express, React, and Node.js."| Code. Build. Deploy | Problem Solver in Python 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharma18&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharma18" /> </p>
 
